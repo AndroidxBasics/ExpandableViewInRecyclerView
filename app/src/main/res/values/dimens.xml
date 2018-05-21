@@ -1,0 +1,30 @@
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="timer_text_size">86sp</dimen>
+    <dimen name="progress_circular_size">350dp</dimen>
+    <dimen name="progress_circular_thickness">16dp</dimen>
+
+    <dimen name="walk_card_padding">12dp</dimen>
+    <dimen name="walk_card_elevation">2dp</dimen>
+    <dimen name="walk_card_elevation_elevated">8dp</dimen>
+    <dimen name="walk_card_corner_radius">5dp</dimen>
+    <dimen name="walk_card_margin_middle">12dp</dimen>
+
+    <dimen name="route_card_padding">12dp</dimen>
+    <dimen name="route_card_elevation">2dp</dimen>
+    <dimen name="route_card_elevation_elevated">8dp</dimen>
+    <dimen name="route_card_corner_radius">5dp</dimen>
+    <dimen name="route_card_margin_middle">12dp</dimen>
+
+    <dimen name="address_text_size">18sp</dimen>
+    <dimen name="address_text_padding">12sp</dimen>
+    <dimen name="address_text_elevation">8dp</dimen>
+    <dimen name="address_text_margin">6dp</dimen>
+
+    <dimen name="dialog_route_padding">22dp</dimen>
+    <dimen name="dialog_route_title_size">18sp</dimen>
+
+    <dimen name="current_rbtn_text_size">24sp</dimen>
+</resources>
